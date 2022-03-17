@@ -1,6 +1,9 @@
 # feature-engineering-with-python
 ## IT Academy - Data Science Itinerary: Feature Engineering
 
+*S08 T01: Tasca Feature Engineering*
+
+
  Learn how to manage parameters with Python. Become familiar and work correctly with the variables, correlation, covariance and feature scaling with python.
  
  Learning objetives:
