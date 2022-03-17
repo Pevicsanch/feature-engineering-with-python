@@ -1,7 +1,7 @@
 # feature-engineering-with-python
 ## IT Academy - Data Science Itinerary: Feature Engineering
 
- Learn how to manage parameters with Python. Become familiar and work correctly with the variables, correlation, covariance and Feature scaling with python.
+ Learn how to manage parameters with Python. Become familiar and work correctly with the variables, correlation, covariance and feature scaling with python.
  
  Learning objetives:
  + Pre-process the data by performing feature engineering.
