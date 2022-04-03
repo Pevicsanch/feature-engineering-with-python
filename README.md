@@ -11,3 +11,5 @@
  + Interpret the different concepts of feature engineering.
  + Properly apply Python techniques and variables: Preprocessing, Dummy Transformation Variables, and Train Test.
  + Normalize and standardize correctly
+
+**to properly view the plots and outputs in the jupyter notebook please, follow this [link](https://pevicsanch.github.io/feature-engineering-with-python/s08_t01_feature_engineering.html)
